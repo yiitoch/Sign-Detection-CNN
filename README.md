@@ -4,7 +4,7 @@
 This repository contains a deep learning project focused on detecting and classifying finger signs using Convolutional Neural Networks (CNN) implemented in PyTorch.
 
 ## Project Overview
-The goal of this assignment was to compare a baseline "Sample CNN" provided by the course instructor against a "New Improved CNN" designed to optimize performance for the Sign Detection dataset.
+The goal of this assignment was to compare a baseline "Sample CNN" provided by the course instructor against a "New Improved CNN" designed to optimize performance for the Sign Detection dataset imported from Kaggle. 
 
 ## Performance Summary
 | Model | Final Training Accuracy | Architecture Type |
